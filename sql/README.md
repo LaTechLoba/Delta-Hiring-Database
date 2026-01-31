@@ -16,4 +16,8 @@ Contains sample SELECT queries demonstrating:
 - Aggregate functions (COUNT, GROUP BY)
 - Data retrieval for reporting and analysis
 
+To use:
+1. Run `schema.sql` to create the database tables.
+2. Run `queries.sql` to execute sample analytical queries.
+
 All SQL syntax is written for Microsoft Access.
