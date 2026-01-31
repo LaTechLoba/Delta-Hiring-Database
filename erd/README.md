@@ -1,7 +1,6 @@
 ## Entity Relationship Diagram (ERD)
 
 The diagram below illustrates the database entities, attributes, and relationships for the Delta Airlines Hiring Database.
-## Entity Relationship Diagram (ERD)
 
 The ERD for this project was created using Microsoft Visio to visually model the relational database structure before implementation.
 
